@@ -1,0 +1,10 @@
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.exe.config
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.exe
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.pdb
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.csproj.AssemblyReference.cache
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.MathematicalOperations.resources
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.Properties.Resources.resources
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.csproj.GenerateResource.cache
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.exe
+C:\Users\Rihards\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.pdb
